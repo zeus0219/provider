@@ -1,0 +1,85 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  font-weight: bold;
+  font-style: normal;
+  text-transform: none;
+  text-decoration: none;
+}
+a,
+a:visited,
+.post-content a,
+.et_pb_pagebuilder_layout .et_pb_blurb_container p a,
+.et_pb_pagebuilder_layout .et_pb_code a,
+.et_pb_pagebuilder_layout .et_pb_promo_description a,
+.et_pb_pagebuilder_layout .et_pb_newsletter_description a,
+.et_pb_pagebuilder_layout .et_pb_team_member_description > a,
+.et_pb_pagebuilder_layout .et_pb_pricing li a,
+.et_pb_pagebuilder_layout .et_pb_slide_content a,
+.et_pb_pagebuilder_layout .et_pb_tab a,
+.et_pb_pagebuilder_layout .et_pb_text a,
+.et_pb_pagebuilder_layout .et_pb_toggle_content a,
+.et_pb_pagebuilder_layout .et_pb_fullwidth_code a {
+  color: #1e73be;
+}
+.casino_list {
+  margin-right: 50px;
+}
+.casino-software img {
+  padding-left: 0;
+  padding-bottom: 0;
+  height: auto;
+  width: auto;
+  max-height: 125px;
+}
+.et_pb_text_0 {
+  font-size: 15px;
+}
+.et_pb_divider_0:hover:before {
+  border-top-width: px;
+}
+.et_pb_divider_0 {
+  height: 23px;
+}
+.et_pb_post_slider_0.et_pb_slider,
+.et_pb_post_slider_0.et_pb_slider.et_pb_bg_layout_dark {
+  background-color: #2ea3f2;
+}
+.et_pb_post_slider_0 > .box-shadow-overlay,
+.et_pb_post_slider_0.et-box-shadow-no-overlay {
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+.et_pb_post_slider_0.et_pb_slider .et_pb_more_button.et_pb_button {
+  transition: letter-spacing 300ms ease 0ms;
+}
+.et_pb_post_slider_0 .et_pb_slide:not(.et_pb_slide_with_no_image) {
+  background-color: #2ea3f2;
+}
+.et_pb_post_slider_0:hover .et_pb_slide .et_pb_slide_overlay_container {
+  background-color: ;
+}
+.et_pb_text_1 {
+  font-size: 15px;
+}
+.et_pb_text_2 {
+  font-size: 15px;
+}
+@media only screen and (min-width: 768px) and (max-width: 980px) {
+  .et_pb_divider_0 {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .et_pb_divider_0 {
+    display: none !important;
+  }
+}
