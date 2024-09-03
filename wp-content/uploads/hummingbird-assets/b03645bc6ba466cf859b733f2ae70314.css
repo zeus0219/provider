@@ -1689,11 +1689,11 @@ header.header li.menu-item-has-children > a:after {
 }
 .with_sidebar .et_extra_layout .et_pb_column_main,
 .with_sidebar .et_pb_extra_column_main {
-  width: 75%;
-  max-width: 75%;
-  min-width: 75%;
-  -ms-flex-preferred-size: 75%;
-  flex-basis: 75%;
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
   padding: 0 12px 0 0;
 }
 .with_sidebar_left .et_extra_layout .et_pb_column_main,
